@@ -1,0 +1,391 @@
+/* BOXING */
+* { box-sizing: border-box; }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-xs-1 {width: 9.09%;}
+  .col-xs-2 {width: 18.18%;}
+  .col-xs-3 {width: 27.27%;}
+  .col-xs-4 {width: 36.36%;}
+  .col-xs-5 {width: 45.45%;}
+  .col-xs-6 {width: 54.56%;}
+  .col-xs-7 {width: 63.63%;}
+  .col-xs-8 {width: 72.72%;}
+  .col-xs-9 {width: 81.81%;}
+  .col-xs-10 {width: 90.9%;}
+  .col-xs-11 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-x-1 {width: 9.09%;}
+  .col-x-2 {width: 18.18%;}
+  .col-x-3 {width: 27.27%;}
+  .col-x-4 {width: 36.36%;}
+  .col-x-5 {width: 45.45%;}
+  .col-x-6 {width: 54.56%;}
+  .col-x-7 {width: 63.63%;}
+  .col-x-8 {width: 72.72%;}
+  .col-x-9 {width: 81.81%;}
+  .col-x-10 {width: 90.9%;}
+  .col-x-11 {width: 100%;}
+}
+
+
+/* TOP MENU */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #B34242;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+  background-color: #FF9191 !important;
+  color: black !important;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+/* Dropdown container - needed to position the dropdown content */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Style the dropdown button to fit inside the topnav */
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #91FFB0;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Style the links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a dark background on topnav links and the dropdown button on hover */
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #54B36F;
+  color: white;
+}
+
+/* Add a grey background to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #54B36F;
+  color: black;
+}
+
+/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+
+/* USER REVIEWS */
+/* Slideshow container */
+.review_slideshow-container {
+  position: relative;
+  background: #54B36F;
+  border-radius: 5px;
+}
+
+/* Slides */
+.review_mySlides {
+  display: none;
+  padding: 20px;
+  text-align: center;
+  color: #91FFB0;
+}
+
+/* The dot/bullet/indicator container */
+.review_dot-container {
+    text-align: center;
+    padding: 10px;
+    background: #B34242;
+	border-radius: 5px;
+}
+
+/* The dots/bullets/indicators */
+.review_dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #91FFB0;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.review_active, .review_dot:hover {
+  background-color: #FF9191;
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
+
+/* Add a blue color to the author */
+.review_author {color: #FF9191;}
+
+
+/* OWN */
+/* #54B36F (verde oscuro), #ABFFC3 (verde claro), #91FFB0 (verde medio), #B34242 (rojo oscuro) and #FF9191 (rojo claro) */
+html {
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: #ABFFC3;
+	background-image: url("images/background.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+	margin: 100px 10px;
+}
+
+.title_logo {
+	margin: 100px 10px;
+}
+
+.title_logo img, .title_logo h1 {
+	display: inline;
+	vertical-align: middle;
+}
+
+.glow {
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FF9191, 0 0 40px #FF9191, 0 0 50px #FF9191, 0 0 60px #FF9191, 0 0 70px #FF9191;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #B34242, 0 0 40px #B34242, 0 0 50px #B34242, 0 0 60px #B34242, 0 0 70px #B34242, 0 0 80px #B34242;
+  }
+}
+
+h2 {
+	margin: 50px 25px 25px;
+	color: #54B36F;
+}
+
+h3 {
+	margin: 50px 25px 25px;
+	color: #B34242;
+}
+
+a {
+	text-decoration: none;
+	color: #B34242;
+}
+
+a:hover {
+	color: #FF9191;
+}
+
+.row div {
+	overflow: hidden;
+}
+
+.row img {
+	transition: transform .5s ease;
+	vertical-align: bottom;
+}
+
+.row img:hover {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	transform: scale(1.15);
+}
+
+.row h3:hover {
+	text-decoration: underline;
+}
+
+.video iframe {
+	max-width: 100%;
+}
+
+.link a {
+	color: #B34242;
+}
+
+.link a:hover {
+	padding: 10px;
+	background-color: #91FFB0;
+}
+
+.link img {
+	vertical-align: middle;
+}
+
+.badges {
+	width: 200px;
+}
+
+.text_left {
+	text-align: left;
+}
+
+.footer {
+	background-color: #91FFB0;
+	font-size: 12px;
+}
+
+.flags img {
+	transform: scale(0.8);
+}
+
+.flags img:hover {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	transform: scale(1);
+}
+
+.social svg:hover {
+	fill: #B34242;
+}
+
+.checked {
+  color: #FFD700;
+}
+
+.is-vhidden {
+    position: absolute!important;
+    clip: rect(0,0,0,0)!important;
+    overflow: hidden!important;
+    height: 1px!important;
+    width: 1px!important;
+    padding: 0!important;
+    margin: -1px!important;
+    border: 0!important;
+}
+
+.vl {
+  border: 1px solid #54B36F;
+}
