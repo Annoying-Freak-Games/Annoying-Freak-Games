@@ -24,3 +24,9 @@ function showSlide(slideIndex) {
 	slides[slideIndex - 1].style.display = "block";
 	dots[slideIndex - 1].className += " review_active";
 }
+
+// on load video, width="560" height="315"
+function loadVideo() {
+    var html = '<iframe width="700" height="400" src="https://www.youtube.com/embed/_rGEfbtEKAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+    document.getElementById("video").innerHTML = html;
+}
