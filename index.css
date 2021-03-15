@@ -284,10 +284,12 @@ h1 {
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FF9191, 0 0 40px #FF9191, 0 0 50px #FF9191, 0 0 60px #FF9191, 0 0 70px #FF9191;
+    /*text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FF9191, 0 0 40px #FF9191, 0 0 50px #FF9191, 0 0 60px #FF9191, 0 0 70px #FF9191;*/
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FF9191, 0 0 50px #FF9191;
   }
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #B34242, 0 0 40px #B34242, 0 0 50px #B34242, 0 0 60px #B34242, 0 0 70px #B34242, 0 0 80px #B34242;
+    /*text-shadow: 0 0 20px #fff, 0 0 30px #B34242, 0 0 40px #B34242, 0 0 50px #B34242, 0 0 60px #B34242, 0 0 70px #B34242, 0 0 80px #B34242;*/
+    text-shadow: 0 0 20px #fff, 0 0 30px #B34242, 0 0 60px #B34242;
   }
 }
 
