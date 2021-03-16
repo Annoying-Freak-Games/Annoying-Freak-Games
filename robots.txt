@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /es/kill-bacteria-smash-virus-game.html
+Disallow: /es/merge-motorcycles-bike-smash-insects-game.html
+Disallow: /es/merge-motorcycles-match-bike-smash-insects-game
