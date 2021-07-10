@@ -26,9 +26,9 @@ function showSlide(slideIndex) {
 }
 
 // on load video, width="560" height="315"
-function loadVideo() {
+function loadVideo(youtube_url) {
 	window.setTimeout(function () {
-		var html = '<iframe width="700" height="400" src="https://www.youtube.com/embed/_rGEfbtEKAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+		var html = '<iframe width="700" height="400" src=' + youtube_url + ' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 		document.getElementById("video").innerHTML = html;
 	}, 2000);
 }
