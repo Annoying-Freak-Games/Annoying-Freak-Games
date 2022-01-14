@@ -224,6 +224,7 @@
 
 /* The dots/bullets/indicators */
 .review_dot {
+  user-select: none;
   cursor: pointer;
   height: 15px;
   width: 15px;
