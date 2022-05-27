@@ -437,7 +437,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":14831.4609,
@@ -484,7 +484,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":14831.4609,
@@ -665,7 +665,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":21573.0332,
@@ -732,7 +732,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":21573.0332,
@@ -799,7 +799,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":22921.3477,
@@ -826,7 +826,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":22921.3477,
@@ -970,7 +970,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":26966.293,
@@ -987,7 +987,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":26966.293,
@@ -1034,7 +1034,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":28314.6074,
@@ -1051,7 +1051,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":28314.6074,
@@ -1098,7 +1098,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":29662.9219,
@@ -1165,7 +1165,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":29662.9219,
@@ -1232,7 +1232,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":31011.2363,
@@ -1309,7 +1309,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":31011.2363,
@@ -1386,7 +1386,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":32359.55,
@@ -1398,7 +1398,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":32359.55,
@@ -2045,7 +2045,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":53932.5859,
@@ -2057,7 +2057,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":53932.5859,
@@ -2094,7 +2094,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":55955.0547,
@@ -2106,7 +2106,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":55280.9,
@@ -2153,7 +2153,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":56629.2148,
@@ -2165,7 +2165,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":56629.2148,
@@ -2202,7 +2202,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":57977.5273,
@@ -2264,7 +2264,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":57977.5273,
@@ -2326,7 +2326,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":59325.8438,
@@ -2363,7 +2363,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":59325.8438,
@@ -2380,7 +2380,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":60674.1563,
@@ -2427,7 +2427,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":60674.1563,
@@ -2444,7 +2444,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":62022.4727,
@@ -2487,7 +2487,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":62022.4727,
@@ -2576,7 +2576,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":64719.1,
@@ -2623,7 +2623,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":64719.1,
@@ -2670,7 +2670,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":66067.4141,
@@ -2687,7 +2687,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":66067.4141,
@@ -2719,7 +2719,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":67415.73,
@@ -2741,7 +2741,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":67415.73,
@@ -2788,7 +2788,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":68764.05,
@@ -2805,7 +2805,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":68764.05,
@@ -3001,7 +3001,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":75505.62,
@@ -3013,7 +3013,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":75505.62,
@@ -3060,7 +3060,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":76853.93,
@@ -3071,13 +3071,13 @@
                "startTime":77528.0859,
                "arrow":2,
                "noteLength":252.80899
-            },
+            }
          ]
       },
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":76853.93,
@@ -3114,7 +3114,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":78202.25,
@@ -3126,7 +3126,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":78202.25,
@@ -3168,7 +3168,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":79550.56,
@@ -3180,7 +3180,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":79550.56,
@@ -3795,7 +3795,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":98426.97,
@@ -3812,7 +3812,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":98426.97,
@@ -3905,7 +3905,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":101123.594,
@@ -3922,7 +3922,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":101123.594,
@@ -3969,7 +3969,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":102471.906,
@@ -4056,7 +4056,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":102471.906,
@@ -4143,7 +4143,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":103820.227,
@@ -4230,7 +4230,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":103820.227,
@@ -4317,7 +4317,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":105168.539,
@@ -4404,7 +4404,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":105168.539,
@@ -4491,7 +4491,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":106516.852,
@@ -4578,7 +4578,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":106516.852,
@@ -4665,7 +4665,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":107865.172,
@@ -4682,7 +4682,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":107865.172,
@@ -4739,7 +4739,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":109213.484,
@@ -4756,7 +4756,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":109213.484,
@@ -4925,7 +4925,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":113258.43,
@@ -4942,7 +4942,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":113258.43,
@@ -4989,7 +4989,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":true,
-		 "typeOfSection":1,
+         "typeOfSection":1,
          "sectionNotes":[
             {
                "startTime":114606.742,
@@ -5006,7 +5006,7 @@
       {
          "lengthInSteps":16,
          "mustHitSection":false,
-		 "typeOfSection":0,
+         "typeOfSection":0,
          "sectionNotes":[
             {
                "startTime":114606.742,
