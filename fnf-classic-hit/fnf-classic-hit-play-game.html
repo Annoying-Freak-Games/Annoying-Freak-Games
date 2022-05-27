@@ -19,9 +19,9 @@
       </div>
       <div id="unity-warning"> </div>
       <div id="unity-footer">
-        <div id="unity-webgl-logo"></div>
-        <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">FNF Classic Hit</div>
+        <!--<div id="unity-webgl-logo"></div>
+        <div id="unity-fullscreen-button"></div>-->
+        <div id="unity-build-title">FNF Classic Hit: Friday Night Funkin</div>
       </div>
     </div>
     <script>
@@ -29,7 +29,7 @@
       var canvas = document.querySelector("#unity-canvas");
       var loadingBar = document.querySelector("#unity-loading-bar");
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
-      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      //var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
 
       // Shows a temporary message banner/ribbon for a few seconds, or
@@ -57,15 +57,15 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/be5c8a837410560f3ca8989808c21df4.js";
+      var loaderUrl = buildUrl + "/WebGL.loader.js";
       var config = {
-        dataUrl: buildUrl + "/cf55d930f41ba7b5aeff3c4face7c3be.data.br",
-        frameworkUrl: buildUrl + "/256e7cd05190019e4298b186a5933cfb.js.br",
-        codeUrl: buildUrl + "/14931dd74914cdc53334f0f2ef675911.wasm.br",
+        dataUrl: buildUrl + "/WebGL.data.br",
+        frameworkUrl: buildUrl + "/WebGL.framework.js.br",
+        codeUrl: buildUrl + "/WebGL.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Annoying Freak Games",
         productName: "FNF Classic Hit",
-        productVersion: "1.20",
+        productVersion: "1.21",
         showBanner: unityShowBanner,
       };
 
@@ -95,9 +95,9 @@
           progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
-          fullscreenButton.onclick = () => {
-            unityInstance.SetFullscreen(1);
-          };
+          //fullscreenButton.onclick = () => {
+          //  unityInstance.SetFullscreen(1);
+          //};
         }).catch((message) => {
           alert(message);
         });
