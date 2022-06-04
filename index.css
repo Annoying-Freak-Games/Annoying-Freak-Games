@@ -338,6 +338,14 @@ a:hover {
 	text-decoration: underline;
 }
 
+.outstanding {
+	background-color: gold;
+	color: black;
+	margin-left: 50px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 30px;
+}
+
 .video iframe {
 	max-width: 100%;
 }
