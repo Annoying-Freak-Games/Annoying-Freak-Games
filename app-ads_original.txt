@@ -1,16 +1,16 @@
-#Updated July 21st, 2022
+#Updated June 28th, 2022
 #Appodeal
-appodeal.com, 112915, DIRECT
+appodeal.com,112915,DIRECT
+appodeal.com,112915,RESELLER
 #BidMachine
-bidmachine.io, 112915, DIRECT
+bidmachine.io,112915,DIRECT
+bidmachine.io,112915,RESELLER
 #AdMob
 google.com,pub-7197338618899225,DIRECT,f08c47fec0942fa0
 google.com,pub-7197338618899225,RESELLER,f08c47fec0942fa0
 #Notsy
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23740, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 17352, DIRECT, 0bfd66d529a55807
 uis.mobfox.com, 1729, DIRECT, 5529a3d1f59865be
 yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
 instal.com, 5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644, RESELLER
@@ -44,7 +44,6 @@ applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
 applovin.com,0b8086e03d0f715f09a9e6e5dbdbb4b8,RESELLER
 applovin.com,94bf1c89704c8e6a46341999e25b1b90,RESELLER
 #InMobi
-#You use your own account in InMobi. Reach out to your InMobi AM
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
@@ -70,7 +69,6 @@ aps.amazon.com, 13277230, RESELLER
 aps.amazon.com, 15083519, RESELLER
 aps.amazon.com, 15323246, RESELLER
 #IronSource
-#You use your own account in IronSource. Reach out to your IronSource AM
 ironsrc.com, 186063, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 228853, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 245431, RESELLER, 79929e88b2ba73bc
@@ -103,7 +101,7 @@ tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
 undertone.com, 3635, RESELLER
 indexexchange.com, 185996, Reseller
 #Mintegral
-mintegral.com, 11154, RESELLER
+mintegral.com,11154,RESELLER
 #Ogury
 ogury.com, a5021c3244aa371a2a625c7fef071d09, RESELLER
 ogury.com, 8ea3e9ad6c0d6f2abfb6d3d202f846b9,RESELLER
@@ -174,7 +172,20 @@ spotxchange.com, 140812, RESELLER, 7842df1d2fe2db34
 spotx.tv, 140812, RESELLER, 7842df1d2fe2db34
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 #Tapjoy
-#You use your own account in Tapjoy. Reach out to your Tapjoy AM
+tapjoy.com,8f477b1f61b94380ac5f05f35f68c2a2,DIRECT,29e595b1aeb5904d
+rubiconproject.com,12286,RESELLER,0bfd66d529a55807
+webeyemob.com,70096,RESELLER
+openx.com,540679900,RESELLER,6a698e2ec38604c6
+adcolony.com,801e49d1be83b5f9,RESELLER,1ad675c9de6b5176
+pubmatic.com,158060,RESELLER,5d62403b186f2ace
+video.unrulymedia.com,123476257,RESELLER
+indexexchange.com,182257,RESELLER
+appnexus.com,6849,RESELLER
+rubiconproject.com,15268,RESELLER
+rhythmone.com,123476257,RESELLER,a670c89d4a324e47
+pubmatic.com,160565,RESELLER,5d62403b186f2ace
+pubmatic.com,160565,DIRECT,5d62403b186f2ace
+#--
 tapjoy.com, fdd0b892eac94dfa80d3b25b0ac52c44, RESELLER, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 #Vungle
