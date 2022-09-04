@@ -1120,6 +1120,7 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 #Pangle
 pangleglobal.com, 65938, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #Mintegral
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
