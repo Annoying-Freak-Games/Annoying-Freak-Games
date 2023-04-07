@@ -1361,6 +1361,101 @@ sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 contextweb.com, 562954, RESELLER, 89ff185a4c4e857c
 pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+pokkt.com, 7139, RESELLER, c45702d9311e25fd
+appads.in, 107139, RESELLER
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+ignitemediatech.com, pub_61122, RESELLER
+pubnative.net, 1007974, RESELLER, d641df8625486a7b
+adcolony.com, 7d04a18a58085918, RESELLER, 1ad675c9de6b5176
+pokkt.com, 7606, RESELLER, c45702d9311e25fd
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+adelement.com, 101, RESELLER
+pubmatic.com, 156855, RESELLER, 5d62403b186f2ace
+betweendigital.com, 44267, RESELLER
+yeahmobi.com, 5135315, RESELLER
+adelement.com, 20056, RESELLER
+adelement.com, 20210, RESELLER
+adelement.com, 20029, RESELLER
+adelement.com, 30018, RESELLER
+adelement.com, 30019, RESELLER
+nobid.io, 22575233870, RESELLER
+ssp.logan.ai, LG15, RESELLER
+nobid.io, 22388449880, RESELLER
+betweendigital.com, 43740, RESELLER
+onetag.com, 601a5990b7f5cf7, RESELLER
+e-planning.net, ea9874674191f1ff, RESELLER, c1ba615865ed87b2
+appnexus.com, 12941, RESELLER
+betweendigital.com, 44095, RESELLER
+onetag.com, 73720b89bbda622, RESELLER
+bigo.sg, 128, RESELLER
+ignitemediatech.com, pub_61118, RESELLER
+algorix.co, 60204, RESELLER, 5b394c12fea27a1d
+pubmatic.com, 160849, RESELLER, 5d62403b186f2ace
+spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
+admixer.co.kr, 1317, RESELLER
+opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+engagebdr.com, 10181, RESELLER
+smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
+admanmedia.com, 594, RESELLER
+admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+algorix.co, 54510, RESELLER, 5b394c12fea27a1d
+algorix.co, 60095, RESELLER, 5b394c12fea27a1d
+algorix.co, 60097, RESELLER, 5b394c12fea27a1d
+algorix.co, 60084, RESELLER, 5b394c12fea27a1d
+algorix.co, 60206, RESELLER, 5b394c12fea27a1d
+kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
+peak226.com, 12901, RESELLER
+ucfunnel.com, par-6272997D742EBBBB1E4B8B6D9EA8D3B7, RESELLER
+ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
+contextweb.com, 562146, RESELLER, 89ff185a4c4e857c
+epom.com, 9228dad8-6fd8-4e11-8885-f5a02dc42604, RESELLER
+gothamads.com, 399, RESELLER, d9c86e5dec870222
+admanmedia.com, 621, RESELLER
+max-mobi.com, 11456, RESELLER, 6c4d5f85197a5b3c
+pubnative.net, 1007215, RESELLER, d641df8625486a7b
+yieldnexus.com, 96204, RESELLER
+pokkt.com, 6953, RESELLER, c45702d9311e25fd
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+algorix.co, 54510, RESELLER
+aralego.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
+pubmatic.com, 157941, RESELLER, 5d62403b186f2ace
+loopme.com, 11119, RESELLER, 6c8d5f95897a5a3b
+chocolateplatform.com, 14637, RESELLER, 49a66ce31a704197
+bidmachine.io, 35, RESELLER
+appnexus.com, 10824, RESELLER
+chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
+districtm.io, 101649, RESELLER, 3fd707be9c4527c3
+pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
+inmobi.com, d708160556074572b05ed3cf112bb66f, RESELLER, 83e75a7ae333ca9d
+opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 225721, RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1863, RESELLER
+freewheel.tv, 1220655, RESELLER
+yahoo.com, 59052, RESELLER
+risecodes.com, 6022acddc8b2f90001767980, RESELLER
+gitberry.com, 325100012, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1361, RESELLER
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
+opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 #Vungle
 vungle.com, 5e15d3ec9b72ee00187646c6, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1416775282, RESELLER
