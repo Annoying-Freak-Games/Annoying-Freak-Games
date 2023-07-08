@@ -7,6 +7,15 @@
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-54N4WN4');</script>
+	<script>
+		function noMeJodas() {
+			var pasta = document.getElementById("pasta");
+			if (pasta.offsetHeight == 0 || pasta.offsetWidth == 0) {
+				alert("PAUSE ADBLOCK!");
+				window.location.reload();
+			}
+		}
+	</script>
 	<!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +45,7 @@
 	<script type="text/javascript" src="../../index.js"></script>
 	<script src="https://ads.holid.io/auto/www.annoyingfreakgames.com/holid.js" defer="defer"></script>
   </head>
-  <body onload="moveProgressBar();">
+  <body onload="noMeJodas();">
 	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54N4WN4"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -169,13 +178,9 @@
         });
       };
       document.body.appendChild(script);
-	  
-		function adBlockFunction() {
-			alert("Pause AdBlocker");
-		}
     </script>
 	<div class="row" style="height: 300px;margin: 750px 10px 10px;">
-		<div class="holidAds widescreen" onerror="adBlockFunction();"></div>
+		<div class="holidAds widescreen" id="pasta" onerror="noMeJodas();">_</div>
 	</div>
 	<div class="footer">
 		<div class="row">
