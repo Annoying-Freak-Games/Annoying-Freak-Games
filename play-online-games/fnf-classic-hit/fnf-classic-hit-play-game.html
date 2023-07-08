@@ -9,11 +9,16 @@
 	})(window,document,'script','dataLayer','GTM-54N4WN4');</script>
 	<script>
 		function noMeJodas() {
-			var pasta = document.getElementById("pasta");
-			if (pasta.offsetHeight == 0 || pasta.offsetWidth == 0) {
-				alert("PAUSE ADBLOCK!");
-				//window.location.reload();
-			}
+			setTimeout(function countdown(pasta) {
+				var pasta = document.getElementById("pasta");
+				if (!pasta) {
+					alert("PAUSE ADBLOCK PLEASE!");
+					window.location.reload();
+				} else if (pasta.offsetHeight == 0 || pasta.offsetWidth == 0) {
+					alert("PAUSE ADBLOCK PLEASE!");
+					window.location.reload();
+				}
+			}, 10000);
 		}
 	</script>
 	<!-- End Google Tag Manager -->
@@ -180,7 +185,7 @@
       document.body.appendChild(script);
     </script>
 	<div class="row" style="height: 300px;margin: 750px 10px 10px;">
-		<div class="holidAds widescreen" id="pasta" onerror="noMeJodas();"></div>
+		<div class="holidAds widescreen" id="pasta"></div>
 	</div>
 	<div class="footer">
 		<div class="row">
