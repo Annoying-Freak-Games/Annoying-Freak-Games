@@ -1,7 +1,7 @@
 {
 	"speed":1,
     "bpm":100,
-    "sections":28,
+    "sections":29,
     "notes":[
         {
             "mustHitSection":false,
@@ -550,6 +550,14 @@
                     "arrow":1,
                     "noteLength":0
                 }
+            ]
+        },
+        {
+            "mustHitSection":false,
+            "typeOfSection":0,
+            "lengthInSteps":16,
+            "sectionNotes":[
+                
             ]
         },
         {
