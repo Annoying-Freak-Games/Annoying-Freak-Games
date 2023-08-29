@@ -10,15 +10,16 @@
 	<script>
 		function noMeJodas() {
 			setTimeout(function countdown(pasta) {
-				var pasta = document.getElementById("pasta");
-				if (!pasta) {
-					alert("PAUSE ADBLOCK PLEASE!");
-					window.location.reload();
-				} else if (pasta.offsetHeight == 0 || pasta.offsetWidth == 0) {
+				var pasta1 = document.getElementById("pasta1");
+				var pasta2 = document.getElementById("pasta2");
+				var pasta3 = document.getElementById("pasta3");
+				var pasta4 = document.getElementById("pasta4");
+				if ((!pasta1 || pasta1.offsetHeight == 0 || pasta1.offsetWidth == 0) && (!pasta2 || pasta2.offsetHeight == 0 || pasta2.offsetWidth == 0) && 
+					(!pasta3 || pasta3.offsetHeight == 0 || pasta3.offsetWidth == 0) && (!pasta4 || pasta4.offsetHeight == 0 || pasta4.offsetWidth == 0)) {
 					alert("PAUSE ADBLOCK PLEASE!");
 					window.location.reload();
 				}
-			}, 10000);
+			}, 60000);
 		}
 	</script>
 	<!-- End Google Tag Manager -->
@@ -81,13 +82,13 @@
 		<h1 class="glow"><u>Play</u> FNF Classic Hit Mod: Friday Night Funkin</h1>
 	</div>
 	<div class="row" style="height: 300px;margin: 10px">
-		<div class="holidAds widescreen"></div>
+		<div class="holidAds widescreen" id="pasta1"></div>
 	</div>
 	<div class="row" style="height: 600px;width: 300px;margin: 10px;left: 0px; position: absolute">
-		<div class="holidAds tower"></div>
+		<div class="holidAds tower" id="pasta2"></div>
 	</div>
 	<div class="row" style="height: 600px;width: 300px;margin: 10px;right: 0px; position: absolute">
-		<div class="holidAds tower"></div>
+		<div class="holidAds tower" id="pasta3"></div>
 	</div>
     <div id="unity-container" style="margin-top:475px;" class="unity-desktop">
       <canvas id="unity-canvas" width=960 height=600></canvas>
@@ -185,7 +186,7 @@
       document.body.appendChild(script);
     </script>
 	<div class="row" style="height: 300px;margin: 750px 10px 10px;">
-		<div class="holidAds widescreen" id="pasta"></div>
+		<div class="holidAds widescreen" id="pasta4"></div>
 	</div>
 	<div class="footer">
 		<div class="row">
