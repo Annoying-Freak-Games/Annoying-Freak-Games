@@ -52,7 +52,6 @@ rubiconproject.com, 17250, RESELLER, 0bfd66d529a55807 #banner
 xad.com, 240, RESELLER, 81cbf0a75a5e0e9a
 rubiconproject.com, 9061, RESELLER, 0bfd66d529a55807 #banner, EMEA
 rubiconproject.com, 10061, RESELLER, 0bfd66d529a55807 #banner, DE
-
 adform.com, 1612, RESELLER
 improvedigital.com, 1134, RESELLER
 pubmatic.com, 161173, RESELLER, 5d62403b186f2ace
