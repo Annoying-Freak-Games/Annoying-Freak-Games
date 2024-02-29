@@ -14,8 +14,10 @@
 				var pasta2 = document.getElementById("pasta2");
 				var pasta3 = document.getElementById("pasta3");
 				var pasta4 = document.getElementById("pasta4");
-				if ((!pasta1 || pasta1.offsetHeight == 0 || pasta1.offsetWidth == 0) && (!pasta2 || pasta2.offsetHeight == 0 || pasta2.offsetWidth == 0) && 
-					(!pasta3 || pasta3.offsetHeight == 0 || pasta3.offsetWidth == 0) && (!pasta4 || pasta4.offsetHeight == 0 || pasta4.offsetWidth == 0)) {
+				var pasta5 = document.getElementById("pasta5");
+				var pasta6 = document.getElementById("pasta6");
+				if ((!pasta1 || pasta1.offsetHeight == 0 || pasta1.offsetWidth == 0) && (!pasta2 || pasta2.offsetHeight == 0 || pasta2.offsetWidth == 0) && (!pasta3 || pasta3.offsetHeight == 0 || pasta3.offsetWidth == 0) && 
+					(!pasta4 || pasta4.offsetHeight == 0 || pasta4.offsetWidth == 0) && (!pasta5 || pasta5.offsetHeight == 0 || pasta5.offsetWidth == 0) && (!pasta6 || pasta6.offsetHeight == 0 || pasta6.offsetWidth == 0)) {
 					alert("PAUSE ADBLOCK PLEASE!");
 					window.location.reload();
 				}
@@ -55,7 +57,7 @@
 	<meta name="site-verification" content="405f6ab73a305e7f48f20220fa156b5e"/>
 	<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/27036/96aec14575509d6b21341916ee3ccac98a9bf57f/lib.js"></script><!-- interstitial -->
 	<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/27042/3a3d5a7b55af2e6c09ebe01b71528990455a9f8e/lib.js"></script><!-- rich media -->
-	<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/27044/c5a21176ddb9cab5f7dcd26669f83f8b68eb4f13/lib.js"></script><!-- push -->
+	<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/27044/c5a21176ddb9cab5f7dcd26669f83f8b68eb4f13/lib.js"></script><!-- in-page push -->
 	<!-- adTerra -->
 	<script data-cfasync="false" type='text/javascript' src='//spadelack.com/68/77/a2/6877a22bdf234d09c02fbd3969f4883b.js'></script><!-- popunder -->
 	<script data-cfasync="false" type="text/javascript"><!-- banner -->
@@ -104,8 +106,9 @@
 		<h1 class="glow"><u>Play</u> FNF Classic Hit Mod: Friday Night Funkin</h1>
 	</div>
 	<div class="row" style="height: 300px;margin: 10px">
-		<div class="holidAds widescreen" id="pasta1">
-			<script type="text/javascript">
+		<div class="holidAds widescreen" id="pasta1"></div>
+		<div id="pasta5">
+			<script data-cfasync="false" type="text/javascript">
 				atOptions = {
 					'key' : '1205eb68c325137af8b70fc6518a6138',
 					'format' : 'iframe',
@@ -114,6 +117,18 @@
 					'params' : {}
 				};
 				document.write('<scr' + 'ipt type="text/javascript" src="//spadelack.com/1205eb68c325137af8b70fc6518a6138/invoke.js"></scr' + 'ipt>');
+			</script>
+		</div>
+		<div id="pasta6">
+			<script data-cfasync="false" type="text/javascript">
+				atOptions = {
+					'key' : '24a5601e5c4ccdeb81b066e10387b8fa',
+					'format' : 'iframe',
+					'height' : 300,
+					'width' : 160,
+					'params' : {}
+				};
+				document.write('<scr' + 'ipt type="text/javascript" src="//spadelack.com/24a5601e5c4ccdeb81b066e10387b8fa/invoke.js"></scr' + 'ipt>');
 			</script>
 		</div>
 	</div>
